@@ -15,7 +15,9 @@ Before using the boilerplate, we recommend you to go through the documentation o
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
+- https://main--adobe-commerce-eds-storefront--tamelang.aem.page/
 - Live: https://main--{repo}--{owner}.aem.live/
+- https://main--adobe-commerce-eds-storefront--tamelang.aem.live/
 
 ## Pre-requisites
 
