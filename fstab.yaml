@@ -1,13 +1,13 @@
+#mountpoints:
+#  /:
+#    url: https://content.da.live/tamelang/adobe-commerce-eds-storefront/
+#    type: markup
 mountpoints:
-  /:
-    url: https://content.da.live/tamelang/adobe-commerce-eds-storefront/
+  /: 
+    url: https://drive.google.com/drive/u/0/folders/1pSc1szrP1mBMYg85VafiLIaCKYxod8NM
     type: markup
-
 folders:
   /products/: /products/default
 
-#mountpoints:
-#  /: 
-#    url: https://drive.google.com/drive/folders/1iJw8tVfrAmBEq9i7fOM91ZWqPlwj9MAE
-#    type: markup
+
 
