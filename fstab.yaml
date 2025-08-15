@@ -4,7 +4,7 @@
 #    type: markup
 mountpoints:
   /: 
-    url: https://drive.google.com/drive/u/0/folders/1pSc1szrP1mBMYg85VafiLIaCKYxod8NM
+    url: https://drive.google.com/drive/u/0/folders/1x6xWGvE3lTB0Yvr6MuFtzQx8FaeeInP6
 #    type: markup
 folders:
   /products/: /products/default
