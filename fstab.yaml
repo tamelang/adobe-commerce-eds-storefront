@@ -1,5 +1,7 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1x6xWGvE3lTB0Yvr6MuFtzQx8FaeeInP6
+  /: 
+    url: https://drive.google.com/drive/u/0/folders/1x6xWGvE3lTB0Yvr6MuFtzQx8FaeeInP6
+    type: markup
 
 # mountpoints:
 #  /:
